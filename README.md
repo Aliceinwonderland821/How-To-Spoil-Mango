@@ -61,7 +61,7 @@ This's no fixed feeding time. Just make sure he has something to eat in his bowl
     - Nail trimmer
     - Antibiotic eye cream
     - Eye drops
-    - Dewormer
+    - Dewormer \
 ![dewormer](imgs/dewormer.png)    
 - Wipe Mango's eyes every day with kitten eye wipes.
 - Clean Mango's jaw with baby wipes every day to avoid acnes or other skin issue
