@@ -62,6 +62,7 @@ This's no fixed feeding time. Just make sure he has something to eat in his bowl
     - Antibiotic eye cream
     - Eye drops
     - Dewormer
+   ![dewormer](imgs/dewormer.png)    
 - Wipe Mango's eyes every day with kitten eye wipes.
 - Clean Mango's jaw with baby wipes every day to avoid acnes or other skin issue
     - If he has any skin issues, take a photo and send to Lishi through discord or Wechat or ig. 
@@ -89,5 +90,5 @@ This's no fixed feeding time. Just make sure he has something to eat in his bowl
 ## Last but not the least
 - Mango is an indoor cat who's trying to be more outdoor.
     - **DO NOT LET HIM GO OUT ALONE! DO NOT LET HIM GO OUT ALONE! DO NOT LET HIM GO OUT ALONE!**
-- Mango doesn't like lesh. He stops moving once he's on lesh.
+- Mango doesn't like leash. He stops moving once he's on leash.
 - Mango meows everyday with a loud voice because he wanna go out. If you let him out, make sure you follow him.
