@@ -19,15 +19,14 @@ This is Mango.
 This's no fixed feeding time. Just make sure he has something to eat in his bowls before you leave for work every day.
 - Item lists:
     - Mango's bowls: 1 for wet food, the other for dry food
- ![mango's bowl](imgs/mango_bowl.jpg)  
     - Wet food
- ![mango's bowl](imgs/mango_bowl.jpg)  
+ ![wet food](imgs/wet_food.jpg)  
     - Dry food
- ![mango's bowl](imgs/mango_bowl.jpg)  
+ ![dry food](imgs/dry_food.jpg)  
     - Backup wet food
- ![mango's bowl](imgs/mango_bowl.jpg)  
+ ![backup wet food](imgs/backup_wetfood.png)  
     - Hairball treatment
- ![mango's hairball treatment](imgs/mango_bowl.jpg)  
+ ![mango's hairball treatment](imgs/hairball_treatment.png)  
 - 1 serving of wet food mixed with water
     - 1 serving of wet food : 0.5~0.75 serving of water
     - I prefer to use bottled water. Tested this week: Mango doesn't like bottle water that is opened for more than 72 hrs. Previously he was pickier.
