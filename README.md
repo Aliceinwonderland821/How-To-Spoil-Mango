@@ -19,14 +19,16 @@ This is Mango.
 This's no fixed feeding time. Just make sure he has something to eat in his bowls before you leave for work every day.
 - Item lists:
     - Mango's bowls: 1 for wet food, the other for dry food
-    - Wet food
+    - Wet food \
  ![wet food](imgs/wet_food.jpg)  
-    - Dry food
+    - Dry food \
  ![dry food](imgs/dry_food.jpg)  
-    - Backup wet food
+    - Backup wet food \
  ![backup wet food](imgs/backup_wetfood.png)  
-    - Hairball treatment
+    - Hairball treatment \
  ![mango's hairball treatment](imgs/hairball_treatment.png)  
+    - Treats \
+![treats](imgs/treats.png)
 - 1 serving of wet food mixed with water
     - 1 serving of wet food : 0.5~0.75 serving of water
     - I prefer to use bottled water. Tested this week: Mango doesn't like bottle water that is opened for more than 72 hrs. Previously he was pickier.
@@ -42,9 +44,12 @@ This's no fixed feeding time. Just make sure he has something to eat in his bowl
 
 ## Litter box
 - Items:
-    - Automatic litter box
-    - Liners
-    - Cat litter
+    - Automatic litter box \
+ ![litter box](imgs/litterbox.png)  
+    - Liners \
+ ![Liners](imgs/liners.png)  
+    - Cat litter \
+![cat litter](imgs/cat_litter.png)
 - Litter box instructions
     - Youtube: https://www.youtube.com/watch?v=qD_55sAbBC8
     - Make sure to empty it by pressing the empty button before you put it in a car.
@@ -54,25 +59,34 @@ This's no fixed feeding time. Just make sure he has something to eat in his bowl
 
 ## Additional care
 - Items:
-    - Kitten eye wipes
-    - Baby wipes
-    - Cleaning gloves
-    - Nail trimmer
-    - Antibiotic eye cream
-    - Eye drops
+    - Kitty eyewipes \
+![eyewipes](imgs/kitty_eyewipes.png)
+    - Baby wipes \
+![eyewipes](imgs/baby_wipes.png)    
+    - Cleaning gloves \
+![eyewipes](imgs/cleaning_gloves.png)
+    - Nail trimmer \
+![eyewipes](imgs/nail_trimmer.png)
+    - Antibiotic eye cream \
+![eyewipes](imgs/terramycin.png)
+    - Eye drops \
+![eyewipes](imgs/kitty_eyewipes.png)
+    - Dry shampoo \
+![eyewipes](imgs/waterless_bath.png)
     - Dewormer \
 ![dewormer](imgs/dewormer.png)    
-- Wipe Mango's eyes every day with kitten eye wipes.
+- Wipe Mango's eyes every day with kitty eyewipes.
 - Clean Mango's jaw with baby wipes every day to avoid acnes or other skin issue
     - If he has any skin issues, take a photo and send to Lishi through discord or Wechat or ig. 
     - Add vitamin B to his wet food if needed. 
 - Teary eyes: 
     - Mango's eyes are sensitive to dusts (just like his mom), he will have teary eyes in a dusty envrionment. Make sure to vaccum the room at least every 2 weeks.
     - Sometimes there's hair in his eyes that causes his teary eyes. Use the 1-time eye drops.
-    - Excessive tears for unknown reason: Clean his eyes with kitten eye wipes and apply antiboitic cream around his eyes if you see teary eyes. Preferrable continue the antibotic treatment for 3-7 days.
+    - Excessive tears for unknown reason: Clean his eyes with kitty eyewipes and apply antiboitic cream around his eyes if you see teary eyes. Preferrable continue the antibotic treatment for 3-7 days.
 - Cleaning:
     - Use the cleaning gloves if Mango gets dirty. You can also use baby wipes.
-    - ...
+    - Dry bath: give him a dry bath if necessary using waterless shampoo
+        - tutorial here: https://www.youtube.com/watch?v=VYVQ--5Aj4w
 - Trimming nails:
     - Mango doesn't scratch on purpose. BUT he runs around, jumps up and down at night. So you might see scratches on your arms/neck/chest in the morning sometimes. 
     - Mango got his nails trimmed every 2 weeks. Ask in group chat if you don't know how to do it.
